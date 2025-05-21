@@ -1,0 +1,5 @@
+# Images references used to make the themes
+references/*
+
+# MacOS
+.DS_Store
