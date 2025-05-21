@@ -1,0 +1,21 @@
+{
+  "ink_colour": "#CCAE8C",
+  "land_colour": "#CCAE8C",
+  "desert_colour": "#CCAE8C",
+  "forest_colour": "#CCAE8C",
+  "road_colour": "#CCAE8C",
+  "plant_colour": "#CCAE8C",
+  "water_colour": "#2B2B2B",
+  "ice_colour": "#CCAE8C",
+  "lava_colour": "#CCAE8C",
+  "high_colour": "#CCAE8C",
+  "low_colour": "#CCAE8C",
+  "water_edge_colour": "#343843",
+  "generic_shadow_colour": "#CCAE8C",
+  "plant_shadow_colour": "#CCAE8C",
+  "generic_grid_colour": "#CCAE8C",
+  "water_grid_colour": "#57544B",
+  "generic_grid_opacity": 0.0,
+  "ocean_grid_opacity": 0.25,
+  "ocean_textured": true
+}
